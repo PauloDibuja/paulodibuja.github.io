@@ -1,0 +1,6 @@
+<p id="countText" class="counter_text">0</p>
+		<script src="main_script.js"></script>
+		<div>
+			<button onclick="increment()" class="button_change">+</button>
+			<button onclick="decrement()" class="button_change">-</button>
+		</div>
