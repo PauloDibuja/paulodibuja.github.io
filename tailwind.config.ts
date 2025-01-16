@@ -12,6 +12,12 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      animation: {
+        
+      },
+      backgroundImage: {
+        'fondo_paulodibuja': "url('/images/CasaPauloDibuja2022_02.png')",
+      },
     },
   },
   plugins: [],
